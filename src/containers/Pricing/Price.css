@@ -1,0 +1,26 @@
+.card ul li  {
+    text-decoration:none !important;
+    color: black !important;
+    margin-bottom: 25px !important;
+    
+
+
+}
+.card a{
+     color: black !important;
+}
+.card ul {
+    margin-top: 25px !important;
+}
+
+.card h1 {
+    color: black;
+}
+.card{
+    margin-top: 30px !important;
+    padding:50px 50px;
+
+}
+.mtt{
+    margin-top: 9rem;
+}

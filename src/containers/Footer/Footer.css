@@ -1,0 +1,17 @@
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    width: 250px;
+margin-top: 25px;
+margin: 0 !important;
+
+}
+
+.inside-foote h1{
+    color: white !important; 
+    font-size: 15px;
+}
+.ratata{
+    margin-top: 8rem;
+    margin-bottom:3rem;
+}

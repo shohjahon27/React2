@@ -1,0 +1,18 @@
+.png{
+    max-width: 80px;
+    margin-left: 8rem;
+    margin-bottom: 3rem;
+}
+.btn{
+    border-radius:25px;
+}
+.card{
+    margin: 0 !important;
+}
+.h1{
+    margin-top: 9rem;
+}
+.row {
+    margin: 0 !important;
+  
+}

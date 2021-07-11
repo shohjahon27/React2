@@ -60,7 +60,7 @@ class Price extends React.Component {
                       <p className="text-dark">
                         Organize across all apps by hand
                       </p>
-                      <h1 className="text-primary fw-bold">0$</h1>
+                      <h1 className="text-primary fw-bold">9.99$</h1>
                       <p className="text-dark">Per Month</p>
                       <button className="btn btn-primary ">Try for free</button>
                       <ul>
@@ -93,7 +93,7 @@ class Price extends React.Component {
                       <p className="text-dark">
                         Organize across all apps by hand
                       </p>
-                      <h1 className="text-primary fw-bold">0$</h1>
+                      <h1 className="text-primary fw-bold">19.99$</h1>
                       <p className="text-dark">Per Month</p>
                       <button className="btn btn-primary ">Try for free</button>
                       <ul>

@@ -75,7 +75,8 @@ class Footer extends React.Component {
               <h1 className="text-white fs-5 text-start">Get in Touch</h1>
               <h1 className="text-white fs-6 fw-normal text-start">Touch</h1>
               <div className="d-flex">
-                <input type="text" />
+                
+                <input type="text" placeholder=" Your Email"/>
                 <input
                   type="button"
                   className="btnn btn-primary"
@@ -88,7 +89,7 @@ class Footer extends React.Component {
             </div>
           </div>
         </div>
-        <h6>Made With Love By Figmaland All Right Reserved </h6>
+        <h6 className="h6">Made With Love By Figmaland All Right Reserved </h6>
       </div>
     );
   }

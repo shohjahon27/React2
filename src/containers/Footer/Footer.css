@@ -4,7 +4,7 @@
     width: 250px;
     margin-top: 25px;
     margin: 0 !important;
-    margin-bottom: 45px !important;
+    margin-bottom: 35px !important;
 
 }
 
@@ -26,4 +26,8 @@ h1{
 .users{
     cursor: pointer;
     color: rgb(72, 72, 245);
+}
+.h6{
+    margin-bottom: 30px;
+    color: rgb(197, 187, 187);
 }

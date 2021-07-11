@@ -2,8 +2,9 @@
     display: flex;
     flex-wrap: wrap;
     width: 250px;
-margin-top: 25px;
-margin: 0 !important;
+    margin-top: 25px;
+    margin: 0 !important;
+    margin-bottom: 45px !important;
 
 }
 
@@ -14,4 +15,15 @@ margin: 0 !important;
 .ratata{
     margin-top: 8rem;
     margin-bottom:3rem;
+}
+.btnn{
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+}
+h1{
+    cursor: pointer;
+}
+.users{
+    cursor: pointer;
+    color: rgb(72, 72, 245);
 }

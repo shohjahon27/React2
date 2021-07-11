@@ -16,12 +16,12 @@ class Price extends React.Component {
               <div className="container text-center mt-5">
                 <h1 className="mtt">Pricing</h1>
                 <p className="mb-5">
-                  Problems trying to resolve the conflict between <br></br> the two major
-                  realms of Classical physics: Newtonian mechanics{" "}
+                  Problems trying to resolve the conflict between <br></br> the
+                  two major realms of Classical physics: Newtonian mechanics{" "}
                 </p>
-                <div className="row text-center ">
-                  <div className="col-12 col-md-6 col-lg-4">
-                    <div className="card  bg-white">
+                <div className="row  text-center ">
+                  <div className="col-12 mb-4 col-md-6 col-lg-4">
+                    <div className="card   bg-white">
                       <h1>FREE</h1>
                       <p className="text-dark">
                         Organize across all apps by hand
@@ -54,7 +54,7 @@ class Price extends React.Component {
                       </ul>
                     </div>
                   </div>
-                  <div className="col-12 col-md-6 col-lg-4">
+                  <div className="col-12 mb-4 col-md-6 col-lg-4">
                     <div className="card bg-white">
                       <h1>FREE</h1>
                       <p className="text-dark">

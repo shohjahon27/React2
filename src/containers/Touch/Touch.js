@@ -24,17 +24,17 @@ class Touch extends React.Component {
               <p className="text-dark">
                 georgia.young@example.com georgia.young@ple.com
               </p>
-              <h6 className="text-dark mb-4">Get Support</h6>
+              <h6 className="text-dark GetSupport mb-4">Get Support</h6>
               <button className="btn btn-outline-primary ">Try for free</button>
             </div>
           </div>
           <div className="col-12 touch col-md-6 col-lg-4">
-            <div className="card  bg-primary">
-              <img src="location.svg" className="png " alt="" />
+            <div className="card pb-5 bg-primary">
+              <img src="location.svg" className="pngg " alt="" />
               <p className="text-light">
                 georgia.young@example.com georgia.young@ple.com
               </p>
-              <h6 className="text-light mb-4">Get Support</h6>
+              <h6 className="text-light GetSupport  mb-5">Get Support</h6>
               <button className="btn btn-outline-light ">Try for free</button>
             </div>
           </div>
@@ -44,7 +44,7 @@ class Touch extends React.Component {
               <p className="text-dark">
                 georgia.young@example.com georgia.young@ple.com
               </p>
-              <h6 className="text-dark mb-4">Get Support</h6>
+              <h6 className="text-dark GetSupport mb-5">Get Support</h6>
               <button className="btn btn-outline-primary ">Try for free</button>
             </div>
           </div>
